@@ -3,3 +3,6 @@ This is a procject that involves integration with Twitch Api and youtube api to:
 2. Create a Compilation of itt
 3. Create a Description and Thumbnail
 4. Upload it to Youtube
+
+Result:
+https://www.youtube.com/@DailydoseofSmashBros
